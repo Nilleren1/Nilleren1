@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Nilleren1
-- 👀 I’m interested in game development. And just looking for something fun.
-- 🌱 I’m currently learning C# basics.
-- 💞️ I’m looking to collaborate on Unity games and Student assignments.
 - 📫 How to reach me, E-mail: nicolai.hoegsbjerg@gmail.com
 
 <!---
